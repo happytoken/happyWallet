@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RemoteImage should render correctly 1`] = `
+<ComponentErrorBoundary
+  componentLabel="RemoteImage-SVG"
+>
+  <View
+    style={Object {}}
+  >
+    <SvgCssUri
+      fill="black"
+      height="100%"
+      source={
+        Object {
+          "uri": "https://hld-chain.oss-cn-beijing.aliyuncs.com/tokens/dai.svg",
+        }
+      }
+      uri="https://hld-chain.oss-cn-beijing.aliyuncs.com/tokens/dai.svg"
+      width="100%"
+    />
+  </View>
+</ComponentErrorBoundary>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TypedSign should render correctly 1`] = `
+<Connect(SignatureRequest)
+  currentPageInformation={
+    Object {
+      "title": "title",
+      "url": "url",
+    }
+  }
+  onCancel={[Function]}
+  onConfirm={[Function]}
+  truncateMessage={false}
+  type="typedSign"
+>
+  <View
+    onLayout={[Function]}
+    style={Array []}
+  />
+</Connect(SignatureRequest)>
+`;
