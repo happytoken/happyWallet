@@ -1,9 +1,11 @@
 # happyWallet
 happy wallet
 
-![HappyWallet logo](logo.png?raw=true)
+【说明】多链钱包，支持ETH、BSC、HECO、OKEX、HLD等公链，主要服务于Hld Chain Mainnet游戏公链
 
-# HappyWallet
+[description] Multi Chain Wallet supports eth, BSC, heco, okex, HLD and other public chains, mainly serving the HLD chain mainnet game public chain
+
+![HappyWallet logo](logo.png?raw=true)
 
 ![BitriseCI](https://app.bitrise.io/app/be69d4368ee7e86d/status.svg?token=OBhpG-OxuDtWGezLhceqhw&branch=develop)
 
